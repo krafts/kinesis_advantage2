@@ -1,0 +1,6 @@
+{F1}>{speed5}{-lctrl}{-lalt}{left}{+lctrl}{+lalt}
+{F2}>{speed5}{-lshift}{-lctrl}{-lalt}{left}{+lshift}{+lctrl}{+lalt}
+{F3}>{speed5}{-lshift}{-lctrl}{-lalt}{right}{+lshift}{+lctrl}{+lalt}
+{F4}>{speed5}{-lctrl}{-lalt}{right}{+lctrl}{+lalt}
+[rwin]>[ralt]
+[delete]>[rwin]
